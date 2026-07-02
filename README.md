@@ -80,7 +80,7 @@
 ## 🌍 Let's Connect
 
 <p align="center">
-  <a href="https://lakshmidhar.vercel.app/">
+  <a href="https://laksh-folio.vercel.app/">
     <img src="https://img.shields.io/badge/Live_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/lakshmidharn-231107u/">
