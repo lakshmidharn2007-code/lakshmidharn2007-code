@@ -71,9 +71,7 @@
   <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=lakshmidharn2007-code&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
 </div>
 
-<div align="center" style="margin-top: 15px;">
-  <img src="https://github-profile-trophy.vercel.app/?username=lakshmidharn2007-code&theme=tokyonight&column=7&margin-w=15&no-bg=true" alt="GitHub Trophies" />
-</div>
+
 
 ---
 
